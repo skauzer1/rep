@@ -1,0 +1,28 @@
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.deps.json
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.runtimeconfig.json
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.runtimeconfig.dev.json
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.dll
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.AssemblyInfoInputs.cache
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.AssemblyInfo.cs
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.pdb
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.dll
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.pdb
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.Common.dll
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\bin\Debug\netcoreapp2.0\Grocer.Common.pdb
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer\obj\Debug\netcoreapp2.0\Grocer.csproj.CopyComplete
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.deps.json
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.runtimeconfig.json
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.runtimeconfig.dev.json
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.dll
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.pdb
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.Common.dll
+C:\Grocer-master\Grocer\bin\Debug\netcoreapp2.0\Grocer.Common.pdb
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.csprojAssemblyReference.cache
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.csproj.CoreCompileInputs.cache
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.AssemblyInfoInputs.cache
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.AssemblyInfo.cs
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.csproj.CopyComplete
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.dll
+C:\Grocer-master\Grocer\obj\Debug\netcoreapp2.0\Grocer.pdb

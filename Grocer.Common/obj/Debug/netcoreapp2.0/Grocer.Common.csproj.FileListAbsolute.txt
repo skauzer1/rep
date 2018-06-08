@@ -1,0 +1,18 @@
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\bin\Debug\netcoreapp2.0\Grocer.Common.deps.json
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\bin\Debug\netcoreapp2.0\Grocer.Common.dll
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.AssemblyInfoInputs.cache
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.AssemblyInfo.cs
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\bin\Debug\netcoreapp2.0\Grocer.Common.pdb
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.dll
+C:\Users\Никита\Documents\Visual Studio 2017\Projects\Grocer\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.pdb
+C:\Grocer-master\Grocer.Common\bin\Debug\netcoreapp2.0\Grocer.Common.deps.json
+C:\Grocer-master\Grocer.Common\bin\Debug\netcoreapp2.0\Grocer.Common.dll
+C:\Grocer-master\Grocer.Common\bin\Debug\netcoreapp2.0\Grocer.Common.pdb
+C:\Grocer-master\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.csprojAssemblyReference.cache
+C:\Grocer-master\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.csproj.CoreCompileInputs.cache
+C:\Grocer-master\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.AssemblyInfoInputs.cache
+C:\Grocer-master\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.AssemblyInfo.cs
+C:\Grocer-master\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.dll
+C:\Grocer-master\Grocer.Common\obj\Debug\netcoreapp2.0\Grocer.Common.pdb
